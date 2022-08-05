@@ -1,5 +1,5 @@
 import java.util.Scanner
-// Last version
+// Last version for Task 1
 fun main()
 {   val input=Scanner(System.`in`)
     println("Enter First number: ")
